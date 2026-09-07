@@ -1,0 +1,2 @@
+# JavManageWinScript
+方便本地管理Jav而使用的win操作脚本
